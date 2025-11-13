@@ -7,6 +7,9 @@ https://docs.google.com/document/d/1n-LKTMBqgSOwluc_oEX0N9TJdsvZ-FUQRKqxhhLMeiI/
 Projeto alvo da análise: <br>
 https://github.com/harry0703/MoneyPrinterTurbo
 
+Vídeo explicando o trabalho realizado: <br>
+https://drive.google.com/file/d/13TOlqN0ehvGoFXwxhYfdF4glymIugiKd/view?usp=sharing
+
 Equipe:<br>
 Fernanda da Silva Santos -     202300061581 <br>
 Gustavo Rodrigues dos Santos - 202300061939 <br>
