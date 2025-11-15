@@ -1,0 +1,90 @@
+--- Padrões Arquiteturais Identificados (IA + Heurística) ---
+
+========================================================
+Cluster 0 (Total de Arquivos: 4)
+========================================================
+Padrão Sugerido: Service (Lógica de Negócio)
+Rótulo do Protótipo (Prova): test/services/test_video.py
+  Exemplos Mais Representativos (para confirmar):
+    - test/services/test_video.py
+    - test/services/test_task.py
+    - test/README.md
+    - webui/Main.py
+
+========================================================
+Cluster 1 (Total de Arquivos: 5)
+========================================================
+Padrão Sugerido: Interface de Usuário (Frontend)
+Rótulo do Protótipo (Prova): webui/i18n/de.json
+  Exemplos Mais Representativos (para confirmar):
+    - webui/i18n/de.json
+    - webui/i18n/zh.json
+    - webui/i18n/vi.json
+    - webui/i18n/pt.json
+    - webui/i18n/en.json
+
+========================================================
+Cluster 2 (Total de Arquivos: 5)
+========================================================
+Padrão Sugerido: Controller/API (Camada de Apresentação)
+Rótulo do Protótipo (Prova): app/controllers/ping.py
+  Exemplos Mais Representativos (para confirmar):
+    - app/controllers/ping.py
+    - app/controllers/v1/base.py
+    - app/controllers/base.py
+    - app/router.py
+    - app/asgi.py
+
+========================================================
+Cluster 3 (Total de Arquivos: 3)
+========================================================
+Padrão Sugerido: Repository/DAO (Camada de Persistência)
+Rótulo do Protótipo (Prova): .github/ISSUE_TEMPLATE/bug_report.yml
+  Exemplos Mais Representativos (para confirmar):
+    - .github/ISSUE_TEMPLATE/bug_report.yml
+    - .github/ISSUE_TEMPLATE/feature_request.yml
+    - docker-compose.yml
+
+========================================================
+Cluster 4 (Total de Arquivos: 8)
+========================================================
+Padrão Sugerido: Service (Lógica de Negócio)
+Rótulo do Protótipo (Prova): app/services/video.py
+  Exemplos Mais Representativos (para confirmar):
+    - app/services/video.py
+    - app/services/task.py
+    - app/services/material.py
+    - app/controllers/v1/llm.py
+    - app/controllers/v1/video.py
+
+========================================================
+Cluster 5 (Total de Arquivos: 4)
+========================================================
+Padrão Sugerido: Controller/API (Camada de Apresentação)
+Rótulo do Protótipo (Prova): app/controllers/manager/base_manager.py
+  Exemplos Mais Representativos (para confirmar):
+    - app/controllers/manager/base_manager.py
+    - app/controllers/manager/memory_manager.py
+    - app/controllers/manager/redis_manager.py
+    - app/services/state.py
+
+========================================================
+Cluster 6 (Total de Arquivos: 2)
+========================================================
+Padrão Sugerido: Documentação
+Rótulo do Protótipo (Prova): README.md
+  Exemplos Mais Representativos (para confirmar):
+    - README.md
+    - README-en.md
+
+========================================================
+Cluster 7 (Total de Arquivos: 9)
+========================================================
+Padrão Sugerido: Service (Lógica de Negócio)
+Rótulo do Protótipo (Prova): app/services/subtitle.py
+  Exemplos Mais Representativos (para confirmar):
+    - app/services/subtitle.py
+    - app/models/exception.py
+    - app/config/__init__.py
+    - main.py
+    - app/config/config.py

@@ -1,0 +1,9 @@
+🔍 Classificando arquitetura interna...
+Device set to use cuda:0
+Scores (interna): {'Layered': 0.2766, 'Hexagonal': 0.1854, 'Clean Architecture': 0.1852, 'MVC': 0.1788, 'Monolithic': 0.1741}
+🏗️  Arquitetura interna: Layered
+
+🌐 Classificando arquitetura de sistema...
+Device set to use cuda:0
+Scores (topologia): {'Distributed': 0.2855, 'Single Server (Monolithic)': 0.2631, 'Client-Server': 0.2267, 'Microservices': 0.2248}
+🖥️  Arquitetura de sistema: Distributed

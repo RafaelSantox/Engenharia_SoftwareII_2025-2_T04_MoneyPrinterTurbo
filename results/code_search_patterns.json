@@ -1,0 +1,172 @@
+[
+    {
+        "file": "repo/main.py",
+        "pattern_detected": "Singleton",
+        "similarity": 0.666
+    },
+    {
+        "file": "repo/app/router.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.713
+    },
+    {
+        "file": "repo/app/__init__.py",
+        "pattern_detected": "Código muito curto",
+        "similarity": 0.0
+    },
+    {
+        "file": "repo/app/asgi.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.672
+    },
+    {
+        "file": "repo/app/utils/utils.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.604
+    },
+    {
+        "file": "repo/app/controllers/base.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.647
+    },
+    {
+        "file": "repo/app/controllers/ping.py",
+        "pattern_detected": "Singleton",
+        "similarity": 0.709
+    },
+    {
+        "file": "repo/app/controllers/manager/memory_manager.py",
+        "pattern_detected": "Singleton",
+        "similarity": 0.655
+    },
+    {
+        "file": "repo/app/controllers/manager/base_manager.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.62
+    },
+    {
+        "file": "repo/app/controllers/manager/redis_manager.py",
+        "pattern_detected": "Singleton",
+        "similarity": 0.652
+    },
+    {
+        "file": "repo/app/controllers/v1/base.py",
+        "pattern_detected": "Singleton",
+        "similarity": 0.701
+    },
+    {
+        "file": "repo/app/controllers/v1/llm.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.679
+    },
+    {
+        "file": "repo/app/controllers/v1/video.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.718
+    },
+    {
+        "file": "repo/app/models/__init__.py",
+        "pattern_detected": "Código muito curto",
+        "similarity": 0.0
+    },
+    {
+        "file": "repo/app/models/schema.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.676
+    },
+    {
+        "file": "repo/app/models/exception.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.608
+    },
+    {
+        "file": "repo/app/models/const.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.691
+    },
+    {
+        "file": "repo/app/services/task.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.631
+    },
+    {
+        "file": "repo/app/services/material.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.694
+    },
+    {
+        "file": "repo/app/services/subtitle.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.627
+    },
+    {
+        "file": "repo/app/services/llm.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.61
+    },
+    {
+        "file": "repo/app/services/video.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.668
+    },
+    {
+        "file": "repo/app/services/__init__.py",
+        "pattern_detected": "Código muito curto",
+        "similarity": 0.0
+    },
+    {
+        "file": "repo/app/services/voice.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.721
+    },
+    {
+        "file": "repo/app/services/state.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.6
+    },
+    {
+        "file": "repo/app/services/utils/video_effects.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.698
+    },
+    {
+        "file": "repo/app/config/config.py",
+        "pattern_detected": "Singleton",
+        "similarity": 0.652
+    },
+    {
+        "file": "repo/app/config/__init__.py",
+        "pattern_detected": "Singleton",
+        "similarity": 0.673
+    },
+    {
+        "file": "repo/webui/Main.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.699
+    },
+    {
+        "file": "repo/test/__init__.py",
+        "pattern_detected": "Código muito curto",
+        "similarity": 0.0
+    },
+    {
+        "file": "repo/test/services/test_video.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.622
+    },
+    {
+        "file": "repo/test/services/test_voice.py",
+        "pattern_detected": "Clean Architecture",
+        "similarity": 0.731
+    },
+    {
+        "file": "repo/test/services/__init__.py",
+        "pattern_detected": "Código muito curto",
+        "similarity": 0.0
+    },
+    {
+        "file": "repo/test/services/test_task.py",
+        "pattern_detected": "Nenhum",
+        "similarity": 0.65
+    }
+]
