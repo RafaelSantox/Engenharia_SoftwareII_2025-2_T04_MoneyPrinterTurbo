@@ -30,7 +30,7 @@ Para executar, basta baixar os arquivos da pasta colab_notebooks e fazer upload 
 
 ---
 
-Relatório da atividade, contendo uma análise e explicação mais aprofundada do projeto: [Relatório](https://docs.google.com/document/d/1n-LKTMBqgSOwluc_oEX0N9TJdsvZ-FUQRKqxhhLMeiI/edit?usp=sharing)
+Relatório da atividade, contendo uma análise e explicação mais aprofundada do projeto: [Relatório](https://docs.google.com/document/d/13JeSUXYwiZQ4xPF2bBD3F7DLP3tkuZYV6Az2UTz_q3k/edit?usp=sharing)
 
 
 Vídeo explicando o trabalho realizado: [Vídeo](https://drive.google.com/file/d/13TOlqN0ehvGoFXwxhYfdF4glymIugiKd/view?usp=sharing)
